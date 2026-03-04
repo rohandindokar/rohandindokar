@@ -30,7 +30,25 @@ I am a B.Tech student and developer operating at the intersection of low-level h
 ---
 
 ### ⚙️ Current Execution Loop
+---
 
+### 🕵️‍♂️ Operator Profile
+
+<div align="center">
+  <img src="https://via.placeholder.com/600x300/0D1117/58A6FF?text=Insert+Dark+Tech+Aesthetic+Image+Here" alt="Workspace or Profile" width="600" style="border-radius: 10px;"/>
+</div>
+<br>
+
+I am a B.Tech student and class representative, balancing rigorous technical engineering with real-world business building. My core focus right now is mastering **Data Structures and Algorithms (DSA)** for high-level problem solving, while simultaneously scaling **Autobuz AI**, an automation agency I co-founded to streamline complex business workflows using tools like n8n. 
+
+I thrive at the intersection of different systems: from writing low-level **C++** for **STM32** microcontrollers to conceptualizing robust full-stack applications with the **MERN** stack. 
+
+**Off-Screen Telemetry:**
+- 🏍️ **Machines:** Riding and appreciating the mechanical engineering of a Royal Enfield Continental GT 650.
+- 🏋️‍♂️ **Hardware (Personal):** Dedicated to high-protein, lean-muscle fitness and disciplined routines.
+- 📚 **Input:** Heavy consumer of wealth-creation audiobooks and the strategic tactical history of the Maratha Empire.
+
+---
 - 🧠 **Optimizing:** Deep diving into Data Structures and Algorithms (DSA).
 - 🤖 **Building:** Developing scalable AI automation solutions and business workflows.
 - 🔌 **Tinkering:** Bridging the gap between software logic and hardware control systems.
